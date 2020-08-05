@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foto{
+    margin: auto;
+    margin-top: 14em;
+    margin-left: 50em;
+    width: 290px;
+    height: 500px;
+    padding: 1em;
+    background-image: url(../img/pc%202.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+	position: absolute;
+}
+.lineas{
+    width: 290px;
+    height: 500px;
+    display: block;
+    margin: auto;
+    border: white 2px solid;
+    border-radius: 10px;
+    text-align: center;
+}
+.lineas p{
+    font-size: 30px;
+    font-family: 'Pangolin';
+    color: #ffffff;
+    margin-top: 7.5em;
+}
